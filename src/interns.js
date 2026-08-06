@@ -10,9 +10,14 @@
 // Pull Request. Lihat README.md untuk langkah lengkapnya.
 
 const interns = [
+  { name: "Daniel", role: "DevOps", funFact: "Memandu sesi onboarding ini" },
+  { name: "Agung Saraswati", role: "QA", funFact: "Suka kopi tanpa gula" },
 
   { name: "Daniel", role: "DevOps", funFact: "Memandu sesi onboarding ini" },
   { name: "Narendra", role: "Fullstack Developer", funFact: "Suka kopi" },
+  { name: "Rista", 
+    role: "UI/UX Designer", 
+    funFact: "Punya Aslam tapi suka ngopi" },
   { name: "Yasa", role: "Data Analyst, AI & Automation", funFact: "selalu penasaran sama astronomys"},
   { name: "Daniel", role: "DevOps", funFact: "Memandu sesi onboarding" },
   {
