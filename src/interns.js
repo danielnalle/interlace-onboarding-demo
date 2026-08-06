@@ -14,6 +14,7 @@ const interns = [
   { name: "Agung Saraswati", role: "QA", funFact: "Suka kopi tanpa gula" },
 
   { name: "Daniel", role: "DevOps", funFact: "Memandu sesi onboarding ini" },
+  { name: "Monica", role: "UI/UX Designer", funFact: "Suka semua makanan" },
   { name: "Rista", 
     role: "UI/UX Designer", 
     funFact: "Punya Aslam tapi suka ngopi" },
