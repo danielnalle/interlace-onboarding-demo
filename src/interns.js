@@ -11,6 +11,9 @@
 
 const interns = [
   { name: "Daniel", role: "DevOps", funFact: "Memandu sesi onboarding ini" },
+  { name: "Kevin", role: "Data Analyst", funFact: "Suka kopi tanpa gula." },
+  { name: "Kevin", role: "Data Analyst", funFact: "Suka kopi tanpa gula." },
+  { name: "Yasa", role: "Data Analyst, AI & Automation", funFact: "selalu penasaran sama astronomys"},
   { name: "SatriaDinata", role: "Intern Fullstack Developer", funFact: "Suka kopi tanpa gula"},
   { name: "Agung Saraswati", role: "QA", funFact: "Suka kopi tanpa gula" },
   { name: "Mangadi", role: "FullStack Dev", funFact: "Baru belajar DevOps" },
@@ -23,5 +26,7 @@ const interns = [
     funFact: "Suka kopi tanpa gula",
   },
 ];
+
+
 
 module.exports = interns;
