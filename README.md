@@ -30,7 +30,7 @@ membuat salinan repo di akun GitHub kamu sendiri.
 ### b. Clone hasil fork ke komputer
 
 ```bash
-git clone https://github.com/<username-kamu>/interlace-onboarding-demo.git
+git clone https://github.com/danielnalle/interlace-onboarding-demo.git
 cd interlace-onboarding-demo
 ```
 
@@ -121,17 +121,17 @@ cache, dan seterusnya) — persis seperti yang dibahas di materi presentasi.
 
 ## 5. Istilah yang dipraktikkan di sini
 
-| Istilah | Dipraktikkan di langkah |
-|---|---|
-| Clone | 2b |
-| Branch | 2c |
-| Commit | 2e |
-| Push | 2e |
-| Pull Request | 2f |
-| Review | Dilakukan oleh reviewer di GitHub setelah PR dibuka |
-| Merge | Dilakukan setelah PR disetujui dan lint lolos |
-| CI / Lint | Berjalan otomatis setiap PR dibuka dan setiap ada commit baru |
-| Container / Docker | Bagian 4 di atas |
+| Istilah            | Dipraktikkan di langkah                                       |
+| ------------------ | ------------------------------------------------------------- |
+| Clone              | 2b                                                            |
+| Branch             | 2c                                                            |
+| Commit             | 2e                                                            |
+| Push               | 2e                                                            |
+| Pull Request       | 2f                                                            |
+| Review             | Dilakukan oleh reviewer di GitHub setelah PR dibuka           |
+| Merge              | Dilakukan setelah PR disetujui dan lint lolos                 |
+| CI / Lint          | Berjalan otomatis setiap PR dibuka dan setiap ada commit baru |
+| Container / Docker | Bagian 4 di atas                                              |
 
 ---
 
