@@ -10,8 +10,17 @@
 // Pull Request. Lihat README.md untuk langkah lengkapnya.
 
 const interns = [
+
   { name: "Daniel", role: "DevOps", funFact: "Memandu sesi onboarding ini" },
   { name: "Mangadi", role: "FullStack Dev", funFact: "Baru belajar DevOps" },
 ];  
+  { name: "Yasa", role: "Data Analyst, AI & Automation", funFact: "selalu penasaran sama astronomys"},
+  { name: "Daniel", role: "DevOps", funFact: "Memandu sesi onboarding" },
+  {
+    name: "Test User",
+    role: "DevOps 2",
+    funFact: "Suka kopi tanpa gula",
+  },
+];
 
 module.exports = interns;
