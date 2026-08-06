@@ -11,6 +11,7 @@
 
 const interns = [
   { name: "Daniel", role: "DevOps", funFact: "Memandu sesi onboarding ini" },
+  { name: 'Bad Intern', role: 'Tester', funFact: 'Suka melanggar eslint' }
 ];
 
 module.exports = interns;
