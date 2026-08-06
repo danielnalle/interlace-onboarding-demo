@@ -1,0 +1,23 @@
+{
+  "name": "interlace-onboarding-demo",
+  "version": "1.0.0",
+  "description": "Repo simulasi alur kerja GitHub, CI lint, dan Docker untuk sesi onboarding intern Interlace Studies",
+  "main": "src/server.js",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "lint": "eslint ."
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^10.8.0",
+    "@eslint/js": "^10.0.1",
+    "globals": "^17.9.0"
+  }
+}
