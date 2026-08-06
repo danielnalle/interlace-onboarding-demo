@@ -30,7 +30,7 @@ membuat salinan repo di akun GitHub kamu sendiri.
 ### b. Clone hasil fork ke komputer
 
 ```bash
-git clone https://github.com/danielnalle/interlace-onboarding-demo.git
+git clone https://github.com/<username-kamu>/interlace-onboarding-demo.git
 cd interlace-onboarding-demo
 ```
 
