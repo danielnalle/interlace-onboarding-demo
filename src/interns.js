@@ -15,6 +15,9 @@ const interns = [
   { name: "Arya",
     role: "UI/UX Designer", 
     funFact: "anything.. games, movies, music, model kit, videography.. just into kind of 'that' things" 
+  { name: "Rista", 
+    role: "UI/UX Designer", 
+    funFact: "Punya Aslam tapi suka ngopi" },
   { name: "Yasa", role: "Data Analyst, AI & Automation", funFact: "selalu penasaran sama astronomys"},
   { name: "Daniel", role: "DevOps", funFact: "Memandu sesi onboarding" },
   {
