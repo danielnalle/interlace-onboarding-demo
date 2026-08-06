@@ -30,6 +30,11 @@ const interns = [
     role: "Ui/UX",
     funFact: "Suka kopi tanpa gula",
   },
+   {
+    name: "Test User 5",
+    role: "Ui/UX",
+    funFact: "Suka kopi tanpa gula",
+  },
 ];
 
 module.exports = interns;
