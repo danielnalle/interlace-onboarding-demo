@@ -25,6 +25,11 @@ const interns = [
     role: "DevOps 2",
     funFact: "Suka kopi tanpa gula",
   },
+  {
+    name: "Test User 2",
+    role: "DevOps",
+    funFact: 'Suka kopi tanpa gula',
+  },
 ];
 
 
